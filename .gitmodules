@@ -1,0 +1,6 @@
+[submodule "todo_list"]
+	path = todo_list
+	url = https://github.com/zeyad-boyah/todo_list
+[submodule "todo_list_JS"]
+	path = todo_list_JS
+	url = https://github.com/zeyad-boyah/todo_list
